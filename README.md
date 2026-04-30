@@ -1,2 +1,4 @@
-# java-drawing-canvas
-A Java-based interactive drawing canvas that enables users to create and render shapes using mouse input. Built with object-oriented design, supporting dynamic shape creation and real-time canvas updates.
+Complete TestPaintHierarcy.java to show many shapes.
+Complete DrawingCanvas.java to allow the user to draw with the mouse.
+
+Developer: YOUR NAME
